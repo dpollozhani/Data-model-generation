@@ -1,0 +1,9 @@
+__pychache__/
+.vscode/
+Lib/
+Scripts/
+share/
+test*.py
+*.png
+*.cfg
+*.csv
